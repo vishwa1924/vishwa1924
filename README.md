@@ -1,14 +1,13 @@
 ### Hi there this is vishwa👋
 
 About Me 🙋‍♂️
-Location: Hayward, California 📍\n
+Location: Hayward, California 📍
 Education: M.S. Data Science, CSU East Bay 🎓
 
 Contact: Email | LinkedIn
 
-Experience 💼
-
-Data Scientist, Lizard Monitoring: ML models, AWS/Azure, Agile. 🔬
+"Experience 💼"
+"Data Scientist, Lizard Monitoring: ML models, AWS/Azure, Agile. 🔬"
 
 Analyst Trainee, Cognizant: SQL, Python, Tableau. 👨‍💻
 
