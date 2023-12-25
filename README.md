@@ -1,8 +1,7 @@
 ### Hi there this is vishwa👋
 
 About Me 🙋‍♂️
-Location: Hayward, California 📍
-
+Location: Hayward, California 📍\n
 Education: M.S. Data Science, CSU East Bay 🎓
 
 Contact: Email | LinkedIn
