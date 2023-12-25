@@ -17,4 +17,4 @@ Tech: Python, ML, Deep Learning, AWS, Tableau. 💻
 Publications 📰
 Employee Retention Management (Jan 2022) 📝
 
-[![Vishwa's github stats](https://github-readme-stats.vercel.app/api?username=vishwa1924&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+[![Vishwa's github stats](https://github-readme-stats.vercel.app/api?username=vishwa1924&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/vishwa1924/github-readme-stats)
