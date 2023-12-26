@@ -2,6 +2,28 @@
 
 <h1 align="center">Hi 👋, I'm Vishwa</h1>
 <h3 align="center">A passionate Data Scientist and Mlops Engineer</h3>
+### Hi there, this is Vishwa 👋
+
+#### About Me 🙋‍♂️
+- **Location:** Hayward, California 📍  
+- **Education:** M.S. Data Science, CSU East Bay 🎓  
+- **Contact:** [Email](mailto:sgaddam6@horizon.csueastbay.edu) | [LinkedIn](https://www.linkedin.com/in/saivishwagaddam)  
+
+#### Experience 💼
+- **Data Scientist, Lizard Monitoring:** ML models, AWS/Azure, Agile. 🔬  
+- **Analyst Trainee, Cognizant:** SQL, Python, Tableau. 👨‍💻  
+- **ML Intern, Incrivel Soft:** TensorFlow, Keras. 🤖  
+
+#### Projects 🚀
+- **Refrigeration Failure Prediction:** LSTM model. 🧊  
+- **Chicken Disease Classification:** MLOps, AWS/Azure. 🐔  
+
+#### Skills 🛠
+- **Soft:** Teamwork, Leadership, Innovation. 👥  
+- **Tech:** Python, ML, Deep Learning, AWS, Tableau. 💻  
+
+#### Publications 📰
+- **Employee Retention Management (Jan 2022):** 📝
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa1924&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa1924" /> </p>
 
